@@ -1,6 +1,7 @@
 #python 3.6
 #keras x.xx
 #tensorflow x.x
+#pillow
 
 
 #Import Keras libraries and packages
